@@ -6,7 +6,7 @@ const skills =[
         delay: "300",
         duration: "1200",
         easing: "ease",
-        icon: "/src/assets/Tailwind CSS.png",
+        icon: "/src/img/Tailwind CSS.png",
         title: "Tailwind CSS"
     },
     {
@@ -14,7 +14,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/html.png", 
+        icon: "/src/img/html.png", 
         title: "HTML 5"
     },
     {
@@ -22,7 +22,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/Firebase.png", 
+        icon: "/src/img/Firebase.png", 
         title: "Firebase"
     },
     {
@@ -30,7 +30,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/javascript.png", 
+        icon: "/src/img/javascript.png", 
         title: "Javascript"
     },
     {
@@ -38,7 +38,7 @@ const skills =[
         delay: "0",
         duration: "1200",
         easing: "ease-in",
-        icon: "/src/assets/react.png",
+        icon: "/src/img/react.png",
         title: "React JS"
     },
     {
@@ -46,7 +46,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/node.png", 
+        icon: "/src/img/node.png", 
         title: "Nodejs"
     },
     {
@@ -54,7 +54,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/express.jpeg", 
+        icon: "/src/img/express.jpeg", 
         title: "Express"
     },
     {
@@ -62,7 +62,7 @@ const skills =[
         delay: "300",
         duration: "900",
         easing: "ease",
-        icon: "/src/assets/mongodb.png", 
+        icon: "/src/img/mongodb.png", 
         title: "MongoDB"
     },
     {
@@ -70,7 +70,7 @@ const skills =[
         delay: "300",
         duration: "1200",
         easing: "ease",
-        icon: "/src/assets/daisy.png", 
+        icon: "/src/img/daisy.png", 
         title: "DaisyUI"
     },
 ];
