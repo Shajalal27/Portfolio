@@ -3,7 +3,7 @@ import profileImg from '../../assets/MD SHAJALAL.jpg'
 import { motion } from "framer-motion"
 import { Typewriter } from 'react-simple-typewriter'
 import { FaDownload } from "react-icons/fa";
-
+import CV from '../../../src/CV/CV.pdf'
 const Banner = () => {
     const handleDone = () => {
     console.log(`Done after 5 loops!`)
@@ -79,7 +79,9 @@ const Banner = () => {
                     </span>
                             
                 </h2>
-                <button className='flex items-center gap-2 py-3 px-4  bg-green-400 font-semibold rounded-md'>Download Resume <FaDownload/>
+                <button className='flex items-center gap-2 py-3 px-4  bg-green-400 font-semibold rounded-md'>
+                    <a href={CV} download >Download Resume</a>
+                    <FaDownload/>
                 </button>
                             </div>
                         </div>
