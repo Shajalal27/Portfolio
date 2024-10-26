@@ -5,7 +5,7 @@ import skills from './skills';
 
 export default function Skill() {
     return (
-        <section className='relative py-5 bg-gradient-to-t to-slate-100 from-fuchsia-300 min-h-svh'>
+        <section id='skills' className='relative py-5 bg-gradient-to-t to-slate-100 from-fuchsia-300 min-h-svh'>
             <h2 data-aos="fade-down" data-aos-duration='1000' className='text-4xl text-center py-6 mb-8'><span className='border-b-4 border-fuchsia-400 inline-block px-4 py-2 font-sans cursor-pointer hover:px-8 duration-300'>Skills</span></h2>
             <div className='flex justify-center items-center pb-16 -space-x-6'>
                 <div className='space-y-24'>
